@@ -1,3 +1,3 @@
 #!/bin/bash
 sudo systemctl stop gunicorn.service
-sudo rm -rf /home/ubuntu/new_chatapp/fundoo
+sudo rm -rf /Django-Chat-Application
