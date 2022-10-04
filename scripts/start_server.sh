@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo systemctl start gunicorn.service
+systemctl start gunicorn.service
